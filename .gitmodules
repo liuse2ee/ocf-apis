@@ -4,3 +4,6 @@
 [submodule "iotdatamodels"]
 	path = iotdatamodels
 	url = git@github.com:OpenInterConnect/IoTDataModels.git
+[submodule "security"]
+	path = security
+	url = https://github.com/openconnectivityfoundation/security-models.git
