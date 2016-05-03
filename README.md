@@ -10,4 +10,4 @@ To get all the API's, simply run:
 To bolster readability, the API's from all the modules should follow to the common [api design guidelines] (docs/ApiDesignGuidelines.md).
 
 # License.
-[© 2016 Open Interconnect Consortium, Inc. All rights reserved.] (LICENSE.md)
+[Copyright (c) 2016 Open Connectivity Foundation, Inc. All rights reserved.] (LICENSE.md)
