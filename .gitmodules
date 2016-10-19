@@ -1,9 +1,9 @@
 [submodule "core"]
 	path = core
-	url = git@github.com:openconnectivityfoundation/core.git
+	url = https://github.com/openconnectivityfoundation/core.git
 [submodule "iotdatamodels"]
 	path = iotdatamodels
-	url = git@github.com:OpenInterConnect/IoTDataModels.git
+	url = https://github.com/OpenInterConnect/IoTDataModels.git
 [submodule "security"]
 	path = security
 	url = https://github.com/openconnectivityfoundation/security-models.git
