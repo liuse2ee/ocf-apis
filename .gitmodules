@@ -7,3 +7,6 @@
 [submodule "security"]
 	path = security
 	url = https://github.com/openconnectivityfoundation/security-models.git
+[submodule "bridging"]
+	path = bridging
+	url = https://github.com/openconnectivityfoundation/bridging.git
