@@ -10,3 +10,6 @@
 [submodule "bridging"]
 	path = bridging
 	url = https://github.com/openconnectivityfoundation/bridging.git
+[submodule "core-extensions"]
+	path = core-extensions
+	url = https://github.com/openconnectivityfoundation/core-extensions.git
